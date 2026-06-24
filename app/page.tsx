@@ -9,6 +9,7 @@ export default function Home() {
       <h4>This is a fourth-level heading.</h4>
       <h5>This is a fifth-level heading.</h5>
       <h6>This is a sixth-level heading.</h6>
+      <h6>This is another sixth-level heading.</h6>
     </>
   );
 }
